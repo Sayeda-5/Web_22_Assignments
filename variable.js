@@ -1,8 +1,8 @@
-Let a=24
+Let a=24;
 
-if(a%2==0){
-Console.log("Yes")
-}
-Else{
-console.log("No")
-}
+  if(a%2==0){
+     Console.log("Yes")
+     };
+    Else{
+   console.log("No")
+  };
